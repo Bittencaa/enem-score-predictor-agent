@@ -1,0 +1,13 @@
+venv/
+venv_test/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+data/MICRODADOS_ENEM_ESCOLA.csv
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
